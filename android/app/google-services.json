@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "868161561330",
+    "project_id": "beyt-dedd5",
+    "storage_bucket": "beyt-dedd5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868161561330:android:59d8abd020cc5ba8dce66b",
+        "android_client_info": {
+          "package_name": "com.example.beyt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVVXRhVOhR2yQxk1QTx1M22kag3Xn_qVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
